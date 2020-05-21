@@ -451,11 +451,11 @@ footer{
 #projects{
    padding:50px 15px;
    
-   text-align:left
+   text-align:center
 }
 #projects h2{
    
-   margin-bottom:30px
+   margin-bottom:50px
 }
 .project{
    position:relative;
@@ -473,16 +473,17 @@ footer{
    top:50%;
    transform:translateY(-50%);
    margin-left:300px;
-   padding:5px
+   padding:15px
 }
 .project-info h3{
    font-size:1.5em;
    font-weight:300;
    
-   margin:0 0 5px 0
+   margin:0 0 15px 0
 }
 .project-info p{
-   margin:0 0 5px 0;
+   
+   margin:0 0 15px 0;
    font-size:0.9em
 }
 .no-image .project-info{
