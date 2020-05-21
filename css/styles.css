@@ -459,7 +459,7 @@ footer{
 }
 .project{
    position:relative;
-   max-width:1100px;
+   max-width:900px;
    margin:0 auto 30px auto;
    overflow:hidden;
    background:#2C3335;
@@ -472,7 +472,7 @@ footer{
    position:absolute;
    top:50%;
    transform:translateY(-50%);
-   margin-left:250px;
+   margin-left:300px;
    padding:5px
 }
 .project-info h3{
@@ -482,7 +482,6 @@ footer{
    margin:0 0 5px 0
 }
 .project-info p{
-   
    margin:0 0 5px 0;
    font-size:0.9em
 }
