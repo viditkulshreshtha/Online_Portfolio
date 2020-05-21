@@ -451,15 +451,15 @@ footer{
 #projects{
    padding:50px 15px;
    
-   text-align:center
+   text-align:left
 }
 #projects h2{
    
-   margin-bottom:50px
+   margin-bottom:30px
 }
 .project{
    position:relative;
-   max-width:900px;
+   max-width:1100px;
    margin:0 auto 30px auto;
    overflow:hidden;
    background:#2C3335;
@@ -472,7 +472,7 @@ footer{
    position:absolute;
    top:50%;
    transform:translateY(-50%);
-   margin-left:200px;
+   margin-left:250px;
    padding:5px
 }
 .project-info h3{
